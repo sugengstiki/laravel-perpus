@@ -8,12 +8,7 @@
 <body>
     
 <h1>Hello, {{-- $name --}}!</h1>
-<?php
-    echo "Hello, $name!";
-    echo "Hello, $name!";
-    echo "Hello, $name!";
-    echo "Hello, $name!";
-    ?>
+
 
 </body>
 </html>
